@@ -1,4 +1,4 @@
-# Virtual-Voice-assistent
+# Voice Based Personal Assistant
 
 We have built a Voice based Personal Assistant for people to access files hands free in their device using natural language processing.
 
